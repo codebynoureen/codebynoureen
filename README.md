@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Github Banner.jpg" alt="GitHub Banner" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Noureen Shahid</h1>
 <h3 align="center"> Software Engineering Student | Exploring Web Development & Cybersecurity</h3>
